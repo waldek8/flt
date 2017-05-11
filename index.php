@@ -180,9 +180,9 @@
 		  			</div>
 		  		</div>			
 
-			</div>
+				<a target="_blank" href="https://github.com/waldek8/flt.git">Source on GitHub</a>	
 
-		</div>
+			</div>
 
 		<?php
 			$conn->close();
